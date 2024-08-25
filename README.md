@@ -5,6 +5,7 @@
 - [Structured Finance](http://radoudoux.free.fr/Structured%20Finance.pdf)
 - [Market Makers - NYSE](https://www.nyse.com/publicdocs/nyse/NYSE_Paper_on_Market_Making_Sept_2021.pdf)
 - [Market Makers - Princeton](https://www.princeton.edu/~ota/disk2/1990/9015/901505.PDF)
+- [Market Makers - Deutsche Borse](https://www.xetra.com/resource/blob/279694/db2b59f7075f9fa28bb9268b0e1c4dd4/data/market-making-handbook.pdf)
 
 
 ### Reddit Forums
