@@ -7,6 +7,7 @@
 - [Market Makers - Princeton](https://www.princeton.edu/~ota/disk2/1990/9015/901505.PDF)
 - [Market Makers - Deutsche Borse](https://www.xetra.com/resource/blob/279694/db2b59f7075f9fa28bb9268b0e1c4dd4/data/market-making-handbook.pdf)
 - [NYSE Rules](https://www.nyse.com/publicdocs/nyse/regulation/nyse/NYSE_Rules.pdf)
+- [Collateralized Loan Obligations - Guggenheim](https://www.guggenheiminvestments.com/GuggenheimInvestments/media/PDF/Understanding-Collateralized-Loan-Obligations-2023.pdf)
 
 
 ### Reddit Forums
